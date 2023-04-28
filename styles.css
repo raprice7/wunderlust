@@ -390,7 +390,7 @@ footer a{
 	#intro{
 		display: grid;
 		grid-template-columns: 1fr 1fr;
-		padding: 30px;
+		padding: 29px;
 	}
 	#plan div{
 		display: grid;
