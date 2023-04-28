@@ -104,7 +104,7 @@ header{
 	background: linear-gradient(var(--teal), var(--white));
 	margin-bottom: 20px;
 	padding: 1rem;
-	width: calc(100%- 2rem);
+	width: calc(100% - 2rem);
 }
 .sr-only{
 	position: absolute;
@@ -330,7 +330,7 @@ footer a{
 		width: 200px;
 	}
 	#testimonials div{
-		display; grid;
+		display: grid;
 		grid-template-columns: repeat(4, 1fr);
 	}
 	form{
